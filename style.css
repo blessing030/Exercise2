@@ -2,7 +2,7 @@ body{ background-color: black;}
 
 
 h1{
-    text-transform:uppercase ;
+    text-transform:capitalize;
     font-size: xx-large;
 }
 p{
